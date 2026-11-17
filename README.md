@@ -74,10 +74,7 @@ Solidity smart contract + React / ethers.js front end for rent and utility billi
 
 *Most projects here are academic team work or controlled lab demonstrations. Each repository states my role and what was actually tested.*
 
-<details>
-<summary><b>🇹🇭 ภาษาไทย</b></summary>
-
-<br>
+## 🇹🇭 ภาษาไทย
 
 สวัสดีครับ ผม **กิตติภัทร์ จันทศิลา** นักศึกษาสาขาเทคโนโลยีดิจิทัล แขนง Security Specialist มหาวิทยาลัยเทคโนโลยีสุรนารี
 
@@ -86,5 +83,3 @@ Solidity smart contract + React / ethers.js front end for rent and utility billi
 โปรเจกต์ส่วนใหญ่ในหน้านี้เป็นงานทีมในรายวิชาหรือการทดลองในห้องแล็บ แต่ละ repo ระบุบทบาทของผมและสิ่งที่ทดสอบจริงไว้แล้ว
 
 📅 พร้อมฝึกสหกิจศึกษา: กุมภาพันธ์ – พฤษภาคม 2570 · 📫 kittipat050871@gmail.com
-
-</details>
