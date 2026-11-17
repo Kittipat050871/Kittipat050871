@@ -73,3 +73,18 @@ Solidity smart contract + React / ethers.js front end for rent and utility billi
 ---
 
 *Most projects here are academic team work or controlled lab demonstrations. Each repository states my role and what was actually tested.*
+
+<details>
+<summary><b>🇹🇭 ภาษาไทย</b></summary>
+
+<br>
+
+สวัสดีครับ ผม **กิตติภัทร์ จันทศิลา** นักศึกษาสาขาเทคโนโลยีดิจิทัล แขนง Security Specialist มหาวิทยาลัยเทคโนโลยีสุรนารี
+
+ผมสนใจงานด้าน **SOC และความปลอดภัยเครือข่าย** โปรเจกต์หลักคือ **AEGIS** ซึ่งเป็นงานทีม ผมรับผิดชอบส่วน IDEA3 ได้แก่ ระบบตรวจจับการบุกรุกผ่าน SSH จาก log ของ Linux และการตัดเครือข่ายด้วยฮาร์ดแวร์ ESP32 ซึ่งต้องได้รับการอนุมัติจากผู้ดูแลก่อนทุกครั้ง ปัจจุบันยังเป็นต้นแบบที่อยู่ระหว่างทดสอบ
+
+โปรเจกต์ส่วนใหญ่ในหน้านี้เป็นงานทีมในรายวิชาหรือการทดลองในห้องแล็บ แต่ละ repo ระบุบทบาทของผมและสิ่งที่ทดสอบจริงไว้แล้ว
+
+📅 พร้อมฝึกสหกิจศึกษา: กุมภาพันธ์ – พฤษภาคม 2570 · 📫 kittipat050871@gmail.com
+
+</details>
